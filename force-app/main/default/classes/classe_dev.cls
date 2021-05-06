@@ -4,4 +4,8 @@ public class classe_dev {
 
     //j1
 
+    public static String getTeste(){
+        return 'foi';
+    }
+
 }
