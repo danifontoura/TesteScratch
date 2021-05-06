@@ -1,10 +1,14 @@
 public class classe_dev {
 
+    //ALEX
+
+
+    //X2
+
+
     public static String getTeste(){
         return 'foi';
     }
 
-    public static Decimal getNumbero(){
-        return 0;
-    }
+    //X3
 }
