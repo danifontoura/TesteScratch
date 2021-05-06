@@ -5,11 +5,10 @@ public class classe_dev {
 
     //X2
 
-    //j1
 
     public static String getTeste(){
         return 'foi';
     }
 
-
+    //X3
 }
