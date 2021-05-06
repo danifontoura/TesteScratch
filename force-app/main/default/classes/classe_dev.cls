@@ -4,7 +4,7 @@ public class classe_dev {
         return 'foi';
     }
 
-    public static Decimal getNumbero(){
+    public static Decimal getNumero(){
         return 0;
     }
 }
